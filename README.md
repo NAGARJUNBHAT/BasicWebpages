@@ -1,1 +1,1 @@
-Basic Web pages using HTML, CSS & JAVASCRIPT
+Basic Web pages using HTML, CSS & VANILLA JAVASCRIPT
